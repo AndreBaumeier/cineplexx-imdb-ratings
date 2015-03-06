@@ -4,7 +4,6 @@
 // @version      0.1
 // @description  Displays imdb ratings for movies on overview page http://www.cineplexx.at/filme/kinoprogramm/
 // @author       Andre Baumeier
-// @match        http://www.techradar.com/news/internet/the-beginner-s-guide-to-greasemonkey-scripting-598247
 // @grant        none
 // @include      http://www.cineplexx.at/filme/kinoprogramm/
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
